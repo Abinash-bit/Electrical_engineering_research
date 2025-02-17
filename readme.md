@@ -7,4 +7,4 @@ This research outlines a roadmap for enhancing operational reliability and effic
 
 ## Ensemble model architecture
 
-![Alt Text](workflows/)
+![Alt Text](workflows/Screenshot 2025-02-17 152748.png)
