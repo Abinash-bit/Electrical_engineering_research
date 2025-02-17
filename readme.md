@@ -4,3 +4,7 @@ This research paper focuses on the Random Forest classification algorithm for id
 ## About MLP model
 
 This research outlines a roadmap for enhancing operational reliability and efficiency in AC MGs through Neural Network Based fault detection and classification. Future research involves real-world deployment and validation of machine learning models, by collaboration with MG operators and stakeholders to assess usefulness across various conditions. Advanced machine learning techniques, such as deep learning and reinforcement learning, are identified the patterns in MG data, potentially increasing fault detection accuracy. Continuous learning strategies and scalability considerations are highlighted to ensure adaptability to evolving MG systems. Integration of cybersecurity measures tailored to MGs is deemed essential for safeguarding against cyber threats. Human-machine collaboration emerges as a critical area for designing interfaces to aid decision-making for MG operators, thereby enhancing overall system resilience. Exploring edge use of fault detection models is proposed to reduce latency and improve real-time responsiveness, positioning with MG operational characteristics. These research directions enrich fault detection terminologies for AC MGs, shaping the future landscape of resilient, efficient and effective operations amidst dynamic energy demands and evolving technologies.
+
+## Ensemble model architecture
+
+![Alt Text](workflows/)
